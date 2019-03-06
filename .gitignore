@@ -12,4 +12,4 @@
 *.out
 
 # IGNORED SO THAT YOU DON'T MAKE sensitive info public by mistake during a check in
-src/gcool-quiz.conf
+/src/gcool-quiz.conf
