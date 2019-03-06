@@ -10,3 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# IGNORED SO THAT YOU DON'T MAKE sensitive info public by mistake during a check in
+**/src/gcool-quiz.conf
